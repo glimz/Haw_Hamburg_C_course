@@ -1,0 +1,5 @@
+﻿  Lab4.2.c
+c:\users\galads\source\repos\lab assignments\lab4.2\lab4.2.c(21): warning C4047: 'function': 'double *' differs in levels of indirection from 'double [7][2]'
+c:\users\galads\source\repos\lab assignments\lab4.2\lab4.2.c(21): warning C4024: 'largestDist': different types for formal and actual parameter 1
+c:\users\galads\source\repos\lab assignments\lab4.2\lab4.2.c(58): error C4700: uninitialized local variable 'lon1' used
+c:\users\galads\source\repos\lab assignments\lab4.2\lab4.2.c(64): error C4700: uninitialized local variable 'distKm' used

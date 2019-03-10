@@ -1,0 +1,14 @@
+﻿  lab5.1.c
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(133): error C2372: 'latitude': redefinition; different types of indirection
+  c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(116): note: see declaration of 'latitude'
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(145): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'char *[200]'
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(145): warning C4024: 'sscanf': different types for formal and actual parameter 1
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(146): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'char *[200]'
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(146): warning C4024: 'sscanf': different types for formal and actual parameter 1
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(167): warning C4047: 'function': 'double *' differs in levels of indirection from 'char *[200]'
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(167): warning C4024: 'distanceKm': different types for formal and actual parameter 1
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(142): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(143): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(145): warning C4477: 'sscanf' : format string '%lf' requires an argument of type 'double *', but variadic argument 1 has type 'char **'
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(154): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\galads\source\repos\lab assignments\lab5.1\lab5.1.c(156): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
