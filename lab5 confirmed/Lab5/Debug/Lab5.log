@@ -1,0 +1,12 @@
+﻿  Lab5.c
+c:\users\galads\source\repos\lab5 confirmed\lab5\lab5.c(41): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'char *[200]'
+c:\users\galads\source\repos\lab5 confirmed\lab5\lab5.c(41): warning C4024: 'sscanf': different types for formal and actual parameter 1
+c:\users\galads\source\repos\lab5 confirmed\lab5\lab5.c(42): warning C4047: 'function': 'const char *const ' differs in levels of indirection from 'char *[200]'
+c:\users\galads\source\repos\lab5 confirmed\lab5\lab5.c(42): warning C4024: 'sscanf': different types for formal and actual parameter 1
+c:\users\galads\source\repos\lab5 confirmed\lab5\lab5.c(39): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\galads\source\repos\lab5 confirmed\lab5\lab5.c(40): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\galads\source\repos\lab5 confirmed\lab5\lab5.c(48): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\galads\source\repos\lab5 confirmed\lab5\lab5.c(50): warning C4477: 'printf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'char **'
+c:\users\galads\source\repos\lab5 confirmed\lab5\lab5.c(96): warning C4716: 'distanceKm': must return a value
+  Lab5.vcxproj -> c:\users\galads\source\repos\lab5 confirmed\Debug\Lab5.exe
+  Lab5.vcxproj -> c:\users\galads\source\repos\lab5 confirmed\Debug\Lab5.pdb (Partial PDB)
